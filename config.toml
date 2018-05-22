@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "static/img/portait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shadak@uga.edu"
   address = "Athens, Georgia, 30605, USA"
   office_hours = ""
