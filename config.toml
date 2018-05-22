@@ -6,7 +6,7 @@
 baseurl = "https://ShadaKan.github.io"
 
 # Title of your site
-title = "Shada's playground and portfolio"
+title = "Shada's playground"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "static/img/portait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "static/img/portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shadak@uga.edu"
   address = "Athens, Georgia, 30605, USA"
   office_hours = ""
