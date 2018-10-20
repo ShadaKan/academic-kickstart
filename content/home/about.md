@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Health Care System",
-    "Improving Quality of Life",
-    "Outdoor Activities"
+    "Improving Health",
+    "Outdoor Activities", 
+    "One Piece fan"
   ]
 
 # List your qualifications (such as academic degrees).
